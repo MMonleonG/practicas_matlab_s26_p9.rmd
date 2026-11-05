@@ -48,3 +48,34 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# =========================
+# R
+# =========================
+# Workspace y datos temporales de R
+
+.Rhistory
+.RData
+.RDataTmp
+.Ruserdata
+
+# RStudio
+.Rproj.user/
+
+# =========================
+# Sistema operativo / editores
+# =========================
+
+# VS Code
+
+.vscode/
+
+# =========================
+# Archivos temporales
+# =========================
+
+*.tmp
+*.temp
+*.swp
+*.swo
+*.psw
